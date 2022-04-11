@@ -29,7 +29,7 @@ void draw()
   } else {
     buttonColour = purple;
   }
-  fill(bttonColour);
+  fill(buttonColour);
   rect (quitButtonX, quitButtonY, quitButtonWidth, quitButtonHeight);
   fill(resetWhite);
 }
